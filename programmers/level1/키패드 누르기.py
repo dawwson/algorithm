@@ -1,3 +1,8 @@
+# 풀이 날짜 : 2023.12.01
+# 문제 유형 : 완전탐색
+# 문제 제목 : 키패드 누르기
+# 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/67256
+
 def solution(numbers, hand):
     answer = ''
 
@@ -39,11 +44,11 @@ def solution(numbers, hand):
                 answer += 'R'
                 current_right = number
             if left_distance == right_distance:
-                # 왼손잡이
+                # 왼손잡이인 경우
                 if hand == 'left':
                     answer += 'L'
                     current_left = number
-                # 오른손잡이
+                # 오른손잡이인 경우
                 if hand == 'right':
                     answer += 'R'
                     current_right = number
