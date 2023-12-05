@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ec583c2-b2f9-4696-9818-2e4c1158a94d" name="Changes" comment="231205 프로그래머스 문제 풀이">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5ec583c2-b2f9-4696-9818-2e4c1158a94d" name="Changes" comment="231129 프로그래머스 문제 풀이">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +109,7 @@
       <workItem from="1701741106054" duration="2124000" />
       <workItem from="1701756923572" duration="401000" />
       <workItem from="1701757334338" duration="202000" />
-      <workItem from="1701757544871" duration="190000" />
+      <workItem from="1701757544871" duration="547000" />
     </task>
     <task id="LOCAL-00001" summary="231201 프로그래머스 문제 풀이 주석 추가">
       <option name="closed" value="true" />
@@ -146,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701757023802</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="231129 프로그래머스 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1701757756853</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701757756854</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +173,7 @@
     <MESSAGE value="231130 프로그래머스 문제 풀이" />
     <MESSAGE value="231130 프로그래머스 문제 풀이 마지막 라인 공백 추가" />
     <MESSAGE value="231205 프로그래머스 문제 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="231205 프로그래머스 문제 풀이" />
+    <MESSAGE value="231129 프로그래머스 문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="231129 프로그래머스 문제 풀이" />
   </component>
 </project>
