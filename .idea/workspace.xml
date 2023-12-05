@@ -4,13 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ec583c2-b2f9-4696-9818-2e4c1158a94d" name="Changes" comment="231130 프로그래머스 문제 풀이">
-      <change beforePath="$PROJECT_DIR$/programmers/level1/최소직사각형.py" beforeDir="false" afterPath="$PROJECT_DIR$/programmers/level1/최소직사각형.py" afterDir="false" />
+    <list default="true" id="5ec583c2-b2f9-4696-9818-2e4c1158a94d" name="Changes" comment="231130 프로그래머스 문제 풀이 마지막 라인 공백 추가">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,6 +42,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -47,6 +67,7 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="ProjectId" id="2Z6RqEPOSgFYxMNQCVA0eBZVYmN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -59,11 +80,15 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/shines/Documents/02.study/algorithm&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.16601562&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -77,6 +102,9 @@
       <option name="presentableId" value="Default" />
       <updated>1701403125329</updated>
       <workItem from="1701403126371" duration="624000" />
+      <workItem from="1701740732615" duration="106000" />
+      <workItem from="1701741106054" duration="2124000" />
+      <workItem from="1701756923572" duration="56000" />
     </task>
     <task id="LOCAL-00001" summary="231201 프로그래머스 문제 풀이 주석 추가">
       <option name="closed" value="true" />
@@ -94,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701404861905</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="231130 프로그래머스 문제 풀이 마지막 라인 공백 추가">
+      <option name="closed" value="true" />
+      <created>1701404930504</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701404930504</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +139,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="231201 프로그래머스 문제 풀이 주석 추가" />
     <MESSAGE value="231130 프로그래머스 문제 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="231130 프로그래머스 문제 풀이" />
+    <MESSAGE value="231130 프로그래머스 문제 풀이 마지막 라인 공백 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="231130 프로그래머스 문제 풀이 마지막 라인 공백 추가" />
   </component>
 </project>
