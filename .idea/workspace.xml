@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ec583c2-b2f9-4696-9818-2e4c1158a94d" name="Changes" comment="231128 프로그래머스 문제 풀이 수정">
+    <list default="true" id="5ec583c2-b2f9-4696-9818-2e4c1158a94d" name="Changes" comment="231206 프로그래머스 문제 풀이">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +110,9 @@
       <workItem from="1701756923572" duration="401000" />
       <workItem from="1701757334338" duration="202000" />
       <workItem from="1701757544871" duration="1238000" />
-      <workItem from="1701829944055" duration="318000" />
+      <workItem from="1701829944055" duration="381000" />
+      <workItem from="1701831103107" duration="1031000" />
+      <workItem from="1701917766534" duration="198000" />
     </task>
     <task id="LOCAL-00001" summary="231201 프로그래머스 문제 풀이 주석 추가">
       <option name="closed" value="true" />
@@ -168,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701766097783</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="231206 프로그래머스 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1701830320548</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701830320548</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +203,7 @@
     <MESSAGE value="231129 프로그래머스 문제 풀이" />
     <MESSAGE value="231128 프로그래머스 문제 풀이" />
     <MESSAGE value="231128 프로그래머스 문제 풀이 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="231128 프로그래머스 문제 풀이 수정" />
+    <MESSAGE value="231206 프로그래머스 문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="231206 프로그래머스 문제 풀이" />
   </component>
 </project>
