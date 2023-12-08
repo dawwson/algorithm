@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ec583c2-b2f9-4696-9818-2e4c1158a94d" name="Changes" comment="231206 프로그래머스 문제 풀이">
+    <list default="true" id="5ec583c2-b2f9-4696-9818-2e4c1158a94d" name="Changes" comment="231207 프로그래머스 문제 풀이">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,6 +113,8 @@
       <workItem from="1701829944055" duration="381000" />
       <workItem from="1701831103107" duration="1031000" />
       <workItem from="1701917766534" duration="198000" />
+      <workItem from="1701917974206" duration="87000" />
+      <workItem from="1702003508303" duration="741000" />
     </task>
     <task id="LOCAL-00001" summary="231201 프로그래머스 문제 풀이 주석 추가">
       <option name="closed" value="true" />
@@ -178,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701830320548</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="231207 프로그래머스 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1701917988766</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701917988766</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +214,7 @@
     <MESSAGE value="231128 프로그래머스 문제 풀이" />
     <MESSAGE value="231128 프로그래머스 문제 풀이 수정" />
     <MESSAGE value="231206 프로그래머스 문제 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="231206 프로그래머스 문제 풀이" />
+    <MESSAGE value="231207 프로그래머스 문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="231207 프로그래머스 문제 풀이" />
   </component>
 </project>
