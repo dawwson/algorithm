@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ec583c2-b2f9-4696-9818-2e4c1158a94d" name="Changes" comment="231214 프로그래머스 문제 풀이">
+    <list default="true" id="5ec583c2-b2f9-4696-9818-2e4c1158a94d" name="Changes" comment="231215 프로그래머스 문제 풀이">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,6 +122,9 @@
       <workItem from="1702524477435" duration="135000" />
       <workItem from="1702524615226" duration="614000" />
       <workItem from="1702610434639" duration="133000" />
+      <workItem from="1702610570390" duration="21000" />
+      <workItem from="1702867005821" duration="60000" />
+      <workItem from="1702867068636" duration="61000" />
     </task>
     <task id="LOCAL-00001" summary="231201 프로그래머스 문제 풀이 주석 추가">
       <option name="closed" value="true" />
@@ -235,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702524629424</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="231215 프로그래머스 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1702610582187</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1702610582187</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,6 +278,7 @@
     <MESSAGE value="231212 프로그래머스 문제 풀이" />
     <MESSAGE value="231213 프로그래머스 문제 풀이" />
     <MESSAGE value="231214 프로그래머스 문제 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="231214 프로그래머스 문제 풀이" />
+    <MESSAGE value="231215 프로그래머스 문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="231215 프로그래머스 문제 풀이" />
   </component>
 </project>
