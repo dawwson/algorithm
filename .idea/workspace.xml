@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ec583c2-b2f9-4696-9818-2e4c1158a94d" name="Changes" comment="231221 프로그래머스 문제 풀이">
+    <list default="true" id="5ec583c2-b2f9-4696-9818-2e4c1158a94d" name="Changes" comment="231222 프로그래머스 문제 풀이">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +128,8 @@
       <workItem from="1702867132111" duration="19000" />
       <workItem from="1702952130089" duration="739000" />
       <workItem from="1703128597525" duration="672000" />
-      <workItem from="1703211922363" duration="150000" />
+      <workItem from="1703211922363" duration="171000" />
+      <workItem from="1703560514189" duration="102000" />
     </task>
     <task id="LOCAL-00001" summary="231201 프로그래머스 문제 풀이 주석 추가">
       <option name="closed" value="true" />
@@ -282,7 +283,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703128933167</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="231222 프로그래머스 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1703212087947</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1703212087947</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,6 +328,7 @@
     <MESSAGE value="231219 프로그래머스 문제 풀이" />
     <MESSAGE value="231220 프로그래머스 문제 풀이" />
     <MESSAGE value="231221 프로그래머스 문제 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="231221 프로그래머스 문제 풀이" />
+    <MESSAGE value="231222 프로그래머스 문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="231222 프로그래머스 문제 풀이" />
   </component>
 </project>
