@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ec583c2-b2f9-4696-9818-2e4c1158a94d" name="Changes" comment="240101 리트코드 문제 풀이">
-      <change afterPath="$PROJECT_DIR$/leetcode/easy/Two Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/medium/Add Two Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/medium/Longest Substring Without Repeating Characters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,7 +132,8 @@
       <workItem from="1703560514189" duration="722000" />
       <workItem from="1703571722766" duration="598000" />
       <workItem from="1703659187264" duration="713000" />
-      <workItem from="1704094514127" duration="348000" />
+      <workItem from="1704094514127" duration="373000" />
+      <workItem from="1704162596705" duration="823000" />
     </task>
     <task id="LOCAL-00001" summary="231201 프로그래머스 문제 풀이 주석 추가">
       <option name="closed" value="true" />
@@ -313,7 +311,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703659286330</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="240101 리트코드 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1704094865921</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1704094865921</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
