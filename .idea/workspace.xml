@@ -65,6 +65,9 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Z6RqEPOSgFYxMNQCVA0eBZVYmN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -136,6 +139,7 @@
       <workItem from="1704162596705" duration="823000" />
       <workItem from="1704163962795" duration="682000" />
       <workItem from="1704424368175" duration="77000" />
+      <workItem from="1704682511647" duration="1540000" />
     </task>
     <task id="LOCAL-00001" summary="231201 프로그래머스 문제 풀이 주석 추가">
       <option name="closed" value="true" />
