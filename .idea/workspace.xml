@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ec583c2-b2f9-4696-9818-2e4c1158a94d" name="Changes" comment="240102 프로그래머스 문제 풀이">
+    <list default="true" id="5ec583c2-b2f9-4696-9818-2e4c1158a94d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,7 +139,8 @@
       <workItem from="1704162596705" duration="823000" />
       <workItem from="1704163962795" duration="682000" />
       <workItem from="1704424368175" duration="77000" />
-      <workItem from="1704682511647" duration="1540000" />
+      <workItem from="1704682511647" duration="1588000" />
+      <workItem from="1704769276535" duration="1926000" />
     </task>
     <task id="LOCAL-00001" summary="231201 프로그래머스 문제 풀이 주석 추가">
       <option name="closed" value="true" />
@@ -333,7 +334,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704163988645</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="240108 프로그래머스 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1704684076924</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1704684076924</updated>
+    </task>
+    <task id="LOCAL-00026" summary="문제 풀이 템플릿 작성">
+      <option name="closed" value="true" />
+      <created>1704684096852</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1704684096852</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,7 +368,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="231201 프로그래머스 문제 풀이 주석 추가" />
     <MESSAGE value="231130 프로그래머스 문제 풀이" />
     <MESSAGE value="231130 프로그래머스 문제 풀이 마지막 라인 공백 추가" />
     <MESSAGE value="231205 프로그래머스 문제 풀이" />
@@ -375,6 +391,8 @@
     <MESSAGE value="231227 프로그래머스 문제 풀이" />
     <MESSAGE value="240101 리트코드 문제 풀이" />
     <MESSAGE value="240102 프로그래머스 문제 풀이" />
-    <option name="LAST_COMMIT_MESSAGE" value="240102 프로그래머스 문제 풀이" />
+    <MESSAGE value="240108 프로그래머스 문제 풀이" />
+    <MESSAGE value="문제 풀이 템플릿 작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="문제 풀이 템플릿 작성" />
   </component>
 </project>
