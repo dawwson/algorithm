@@ -1,23 +1,32 @@
-> 풀이 날짜 : 2024.MM.DD  
+> 풀이 날짜 : 2025.MM.DD  
 > 문제 유형 :  
 > 문제 제목 :  
 > 문제 링크 :
 
 ### Intuition
 
-- 문제를 풀기 위해 처음 들었던 생각
+- 입력/제약을 보고 떠올린 핵심 관찰
+
+- 왜 단순한 방법이 안 되는지
+
+- 어떤 방향이 보였는지
 
 ### Approach
 
-- 문제 해결을 위한 접근 방법
+- 실제로 채택한 알고리즘
+
+- 자료구조 선택 이유
+
+- 단계별 처리 방식
 
 ### Complexity
 
-- Time complexity:
-- Space complexity:
+- Time complexity: `O()`
 
-### Code
+- Space complexity: `O()`
 
-```js
+### Code ()
+
+```
 
 ```
