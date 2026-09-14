@@ -1,6 +1,6 @@
 > 풀이 날짜 : 2026.06.23  
 > 문제 유형 : 정렬  
-> 문제 제목 : K번째 수  
+> 문제 제목 : 째 수  
 > 문제 링크 : https://school.programmers.co.kr/learn/courses/30/lessons/42748
 
 <br>
@@ -80,34 +80,41 @@ class Solution {
 
 <br>
 
-### Better Code (Java)
+### Code (C++)
 
 ---
 
-```java
-import java.util.*;
+```cpp
+#include <string>
+#include <vector>
+#include <algorithm>
 
-class Solution {
-    public int[] solution(int[] array, int[][] commands) {
-        int[] answer = new int[commands.length];
+using namespace std;
 
-        for (int idx = 0; idx < commands.length; idx++) {
-            int i = commands[idx][0];
-            int j = commands[idx][1];
-            int k = commands[idx][2];
+vector<int> solution(vector<int> array, vector<vector<int>> commands) {
+    vector<int> answer;
 
-            int[] ranged = Arrays.copyOfRange(array, i - 1, j);
-            Arrays.sort(ranged);
+    for (vector<int> command : commands) {
+        int i = command[0];
+        int j = command[1];
+        int k = command[2];
 
-            answer[idx] = ranged[k - 1];
-        }
+        auto start = array.begin() + i - 1;
+        auto end = array.begin() + j;
 
-        return answer;
+        vector<int> sliced(start, end);
+
+        sort(sliced.begin(), sliced.end());
+
+        answer.push_back(sliced[k-1]);
     }
+
+    return answer;
 }
 ```
 
-- List<Integer>를 만들 필요가 없다.
-- Integer로 박싱했다가 다시 int로 언박싱하는 과정이 없다.
-- stream()으로 int[]로 변환하는 과정이 없다.
-- 정답 개수가 정해져 있으므로 배열에 바로 넣는 코드가 문제 의도와 더 잘 맞는다.
+- `vector<int>`는 크기가 변하는 정수 배열이다. `push_back()`으로 각 명령의 결과를 `answer` 뒤에 추가한다.
+- `begin()`은 벡터의 첫 원소를 가리키는 반복자를 반환한다. 반복자에 `i - 1`과 `j`를 더해 복사할 구간의 시작과 끝을 정한다.
+- `vector<int> sliced(start, end)`는 `[start, end)` 범위의 원소를 복사해 새 벡터를 만든다.
+- `<algorithm>`의 `sort()`는 반복자 범위를 오름차순으로 정렬한다.
+- `auto`를 사용하면 `start`와 `end`의 반복자 타입을 컴파일러가 추론한다.
